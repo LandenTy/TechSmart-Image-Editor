@@ -11,6 +11,8 @@ fps = 10
 timer = pygame.time.Clock()
 WIDTH, HEIGHT = 800, 600
 
+Load = False
+
 active_size = 20
 active_color = RED
 painting = []
@@ -77,19 +79,10 @@ def draw_painting(paint):
     for i in range(len(paint)):
         pygame.draw.circle(screen, paint[i][0], paint[i][1], paint[i][2])
         
-def LoadSavedPainting(event):
+def LoadSavedPainting():
     
     with open('SaveData.txt', 'r') as f:
-        painting = eval('[' + ''.join(f.readlines()) + ']')
-        
-        for i in range(len(brushes)):
-            if brushes[i].collidepoint(event.pos):
-                active_size = 20 - (i * 5)
-            
-        for i in range(len(colors)):
-            if colors[i].collidepoint(event.pos):
-                active_color = rgb[i]
-                    
+        painting = eval('[' + ''.join(f.readlines()) + ']') 
         draw_painting(painting)
 
 def SavePainting(painting):
@@ -135,9 +128,12 @@ while run:
             for i in range(len(saveLoad)):
                 if saveLoad[i].collidepoint(event.pos):
                     if i == 0:
-                        LoadSavedPainting(event)
+                        Load = True
+                        #LoadSavedPainting(event)
                     if i == 1:
-                        SavePainting(painting)
+                        SavePainting(painting) 
+    if Load:
+        LoadSavedPainting()
         
     pygame.display.flip()
     
