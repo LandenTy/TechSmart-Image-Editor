@@ -13,3 +13,6 @@
 # Chapter 1 : The Color Pallette
 When you first open the program, the color Red will be automatically selected for you. You can change the paint color by clicking on any of the Colored Squares. You can check to see whether your brush has changed colors by hovering the mouse cursor over the canvas area.
 ![Color Pallette](Images/Color_Pallette.png "Color_Editor")
+Custom Color Palletes and Switching Color Pallettes are coming in future updates!
+
+# Chapter 2 : Brush Sizes
