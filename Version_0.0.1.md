@@ -16,5 +16,11 @@ When you first open the program, the color Red will be automatically selected fo
 Custom Color Palletes and Switching Color Pallettes are coming in future updates!
 
 # Chapter 2 : Brush Sizes
-To change the brush size, click the corresponding buttons with the different circles. The Larger Circle is the Largest Size, and the Small Circle is the Smallest Size brush. Use the following Image for reference
+To change the brush size, click the corresponding buttons with the different circles. The Larger Circle is the Largest Size brush, and the Small Circle is the Smallest Size brush. Use the following Image for reference
 ![Brush Sizing](Images/Brush_Sizes.png "Color_Editor")
+
+# Chapter 3 : Clearing the Canvas
+To clear the canvas, push the button that looks like a rotating arrow. Currently, in *version 0.0.1* the clear button **ONLY** works on pre-loaded Images. But we are currently working on a fix. When we push out *version 0.1.0*, you should be able to completely clear the canvas without closing the program.
+![Clearing Canvas](Images/Clear_Canvas.png "Clear_Canvas")
+
+# Chapter 4 : Saving and Loading your Image
