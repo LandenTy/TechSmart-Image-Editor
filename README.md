@@ -24,3 +24,13 @@ To clear the canvas, push the button that looks like a rotating arrow. Currently
 ![Clearing Canvas](Images/Clear_Canvas.png "Clear_Canvas")
 
 # Chapter 4 : Saving and Loading your Image
+Once you've finished your Image, you can save it. The Image will be encoded into 3 things:
+1. Color Position
+2. Color RGB
+3. Brush Size
+![Simple Drawing](Images/Jelly_Blob.png "Jelly_Blob")
+
+To save your image, navigate up to the Toolbar.
+![Save_Load](Images/Up_Down_Arrows.png "Up_Down_Arrows")
+
+The arrow on the right is responsible for saving the project. Click the button, and exit the program.
