@@ -28,7 +28,7 @@ Once you've finished your Image, you can save it. The Image will be encoded into
 1. Color Position
 2. Color RGB
 3. Brush Size
-![Simple Drawing](Images/Jelly_Blob.png "Jelly_Blob")
+![Simple Drawing](Images/Jelly Blob.png "Jelly_Blob")
 
 To save your image, navigate up to the Toolbar.
 ![Save_Load](Images/Up_Down_Arrows.png "Up_Down_Arrows")
