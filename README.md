@@ -34,4 +34,5 @@ Once you've finished your Image, you can save it. The Image will be encoded into
 To save your image, navigate up to the Toolbar.
 ![Save_Load](Images/Up_Down_Arrows.png "Up_Down_Arrows")
 
-The arrow on the right is responsible for saving the project. Click the button, and exit the program.
+There are 2 arrows. The Arrow facing downwards is responsible for Loading Saved Images, and the Arrow facing upwards is responsible for Saving your image.
+Click on the Upwards Facing-Arrow and exit the program.
