@@ -16,3 +16,5 @@ When you first open the program, the color Red will be automatically selected fo
 Custom Color Palletes and Switching Color Pallettes are coming in future updates!
 
 # Chapter 2 : Brush Sizes
+To change the brush size, click the corresponding buttons with the different circles. The Larger Circle is the Largest Size, and the Small Circle is the Smallest Size brush. Use the following Image for reference
+![Brush Sizing](Images/Brush_Sizes.png "Color_Editor")
