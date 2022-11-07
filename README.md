@@ -31,8 +31,8 @@ Once you've finished your Image, you can save it. The Image will be encoded into
 
 ![Simple Drawing](Images/Jelly_Blob.png "Jelly_Blob")
 
-To save your image, navigate up to the Toolbar.
+Once you've completed your beautiful masterpiece, it's time to save it! Navigate up to the Toolbar,
 ![Save_Load](Images/Up_Down_Arrows.png "Up_Down_Arrows")
 
-There are 2 arrows. The Arrow facing downwards is responsible for Loading Saved Images, and the Arrow facing upwards is responsible for Saving your image.
-Click on the Upwards Facing-Arrow and exit the program.
+Once there, you'll be met with 2 arrows. The Arrow facing downwards is responsible for Loading Saved Images, and the Arrow facing upwards is responsible for Saving your image. Click on the Upwards Facing-Arrow and exit the program. You're image will be saved into a file titled: "SaveData.txt".
+This encoded file can be moved anywhere throughout your project for later access. 
