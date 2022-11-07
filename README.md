@@ -1,4 +1,4 @@
-# TechSmart Image Editor
+# TechSmart Image Editor ~ *version 0.0.1*
 -------------------------
 # Introduction : Working in The Editor
 <p>Upon opening the editor for the first time, you'll be met with this screen:</p>
