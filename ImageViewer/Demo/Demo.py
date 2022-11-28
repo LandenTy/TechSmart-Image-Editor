@@ -24,7 +24,7 @@ while run:
         if event.type == pygame.QUIT:
             run = False
             
-    iv.Load_Saved_Painting(screen, 'Testing.txt')
+    iv.Load_Saved_Painting(screen, 'Banner.txt')
     pygame.display.flip()
     
 sys.exit()
