@@ -1,5 +1,8 @@
 # TechSmart Image Editor ~ *version 0.0.1*
 -------------------------
+# DISCLAIMER
+I am NOT responsible for any Genitalia or Falical objects drawn in this program. I ask you don't draw any form of genitalia, but I can't magically control what is/isn't drawn.
+
 # Notes and Recognition
 <p>This project is lisenced under the MIT License, the project is currently being worked on by Landen Barker, and Caleb Kinnard. For any questions/concerns about the product, please contact me at Landen.Barker@student.nisdtx.org. Thank You!</p>
 
